@@ -9,3 +9,4 @@ A minimal Web3 frontend that connects to MetaMask using Ethers.js.
 3. Your account address will appear.
 
 Optional: integrate this DApp with the ERC20 or ERC721 contracts you deploy.
+Updated for Talent.app detection
